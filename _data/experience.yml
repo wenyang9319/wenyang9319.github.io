@@ -1,9 +1,58 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: CommonTown Pte Ltd
+  link: https://www.commontown.com/
+  job_title: Senior Software Engineer
+  dates: November 2016 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Involved in 5 projects.
+    OSX development (Mac)
+    UrlProtocol, file decryption, Interaction between webview and native app. Published 5 Apps (2 on App Store).
+    Android
+    MVP, MVI, ViewModel, Dagger2, okhttp, retrofit, Firebase (push notifications), WebviewClient, File decryption, interaction between webview and native app.
+    Published more than 25 apps on Play Store.
+    React Native and Reactjs
+    Dvajs(redux), Atomic pattern, Firebase (push notifications, real time database)
+    Javascript Phaser3
+
+- layout: right
+  company: Freelance
+  job_title: Full Stack Developer
+  dates: November March 2016 - September 2016  (7 months)
+  quote: >
+    Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Native development in both Android and iOS. Webview integration (with javascript).
+    Published 1 app App Store and 1 app on Play Store Php
+    Web scraping, unit test
+    MySQL.
+
+- layout: left
+  company: Hexa Initiative
+  job_title: Internship
+  dates: September 2015 - February 2016 (6 months)
+  quote: >
+    Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Swi, Objective-C, MVC, Alamorefire, Google Analytic, UI Testing Framework (Swi)
+    
+- layout: right
+  company: Rank Alpha Technologies Sdn Bhd
+  job_title: Internship
+  dates: March 2014 - May 2014 (3 months)
+  quote: >
+    Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Soware testing, manual book writer, on site support and installation.
+    
+- layout: left
+  company: Maycom Multimedia
+  job_title: Technician
+  dates: 2006 - 2008 (3 years)
+  quote: >
+    Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Hardware replacement, on site support, hardware soware installation. Format, repair, install operating system.
+    
+    
